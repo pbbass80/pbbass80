@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pbbass80
 - 👀 I’m interested in Network Automation
 - 🌱 I’m currently learning ...Network Automation
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...
 
 <!---
